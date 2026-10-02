@@ -47,5 +47,5 @@ A complete data analysis project using a retail sales dataset.
 
 ### 📫 Connect With Me
 
-- LinkedIn: Coming soon
+- LinkedIn: https://www.linkedin.com/in/areeba-naeem-3a1a7b29b/?isSelfProfile=true
 - GitHub: https://github.com/AreebNaeem31# Areeba-Naeem
